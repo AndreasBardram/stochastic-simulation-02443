@@ -1,2 +1,3 @@
-# Stochastic Simulation (Course 02443)
-### This repository collects the exercise code for the Stochastic Simulation course (02443).
+# stochastic-simulation-02443
+
+The excersises and project made for the DTU course Stochastic Simulation.
